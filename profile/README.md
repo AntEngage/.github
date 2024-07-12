@@ -22,7 +22,7 @@
 
 ## Getting started with AntEngage
 
-<p align="left">To get started with AntEngage, you can visit their <a href="https://antengage.com/">website</a> and sign up for a free trial. You can also contact their sales team to learn more about their pricing and plans.</p>
+<p align="left">To get started with AntEngage, you can visit their <a href="https://antengage.com/">website</a>. You can also contact their support team to learn more about their pricing and plans.</p>
 
 ## Contact
 
