@@ -27,7 +27,10 @@
 ## Contact
 
 <p align="left">
-        <a href="https://antengage.com/" target="_blank">
-                <img align="center" src="https://img.icons8.com/color/48/null/internet.png" alt="antengage" height="40" width="40" />
-        </a>
+    <a href="https://antengage.com/" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/48/null/internet.png" alt="antengage" height="40" width="40" />
+    </a>
+    <a href="mailto:support@antengage.com" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/48/null/email.png" alt="email" height="40" width="40" />
+    </a>
 </p>
