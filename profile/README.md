@@ -37,4 +37,4 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=AntEngage&label=PROFILE+VISITS&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=AntEngage&label=VISITORS&style=for-the-badge&color=blue)
