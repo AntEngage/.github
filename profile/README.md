@@ -34,3 +34,7 @@
         <img align="center" src="https://img.icons8.com/color/48/null/email.png" alt="email" height="40" width="40" />
     </a>
 </p>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=PROFILE+VISITS&style=for-the-badge&color=blue)
